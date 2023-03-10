@@ -1,0 +1,1 @@
+# marp-skill-lync-ppt-template
